@@ -1,0 +1,6 @@
+.focused {
+  outline: solid 2px red;
+}
+p {
+  width: 200px;
+}
